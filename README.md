@@ -9,7 +9,7 @@ It is a computer-assisted audit tool specifically designed for the Cybersecurity
 <li> Automatically Collection of list of User Profiles</li>
 <li> Automatically Check for OS Windows Activation </li>
 <li> Automatically Check OS for Legitimate Assess License</li>
-<li> Automatically assessment of User access Rights<li>
+<li> Automatically assessment of User access Rights</li>
 <li> Assess System against Latest Patches (As per Defined Frequency)by the user</li>
 <li> Collect list of Connected WiFi Profiles</li>
 <li> Search for Bad Browsing History (Keywords may also be added further)</li>
